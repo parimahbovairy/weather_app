@@ -1,4 +1,3 @@
-# weather_app 
 # Weather Forecast App 🌡☁
 
 A simple, responsive web app that lets users type in a city name and instantly see the current weather for that location — temperature, conditions, and a matching icon.
